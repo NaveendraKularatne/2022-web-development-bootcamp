@@ -82,7 +82,7 @@ a {
 
 .skill-row {
     line-height: 2;
-    margin: 100px auto 100px auto;
+    margin: 100px auto 120px auto;
     text-align: left;
     width: 60%;
 }
@@ -130,6 +130,7 @@ a {
 
 .footer-detail {
     color: #EAF6F6;
+    font-size: 0.75rem;
 }
 
 hr {
