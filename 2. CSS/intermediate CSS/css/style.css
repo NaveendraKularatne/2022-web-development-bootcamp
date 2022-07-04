@@ -63,6 +63,13 @@ h3 {
     margin-top: 20px;
 }
 
+.skill-row {
+    line-height: 2;
+    margin: 100px auto 120px auto;
+    text-align: left;
+    width: 60%;
+}
+
 .skill-one {
     border-radius: 75%;
     float: left;
@@ -78,13 +85,6 @@ h3 {
 
 a {
     color: #11999E;
-}
-
-.skill-row {
-    line-height: 2;
-    margin: 100px auto 120px auto;
-    text-align: left;
-    width: 60%;
 }
 
 .btn {
