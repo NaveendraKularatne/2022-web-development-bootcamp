@@ -49,3 +49,25 @@ h1 {
     transform: rotate(25deg);
 }
 
+/* Features */
+#features{
+    text-align: center;
+}
+
+.center-icon{
+    color: #ef8172;
+    padding-bottom: 5%;
+}
+
+.features-topic{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.features-details{
+    color: #8f8f8f;
+    margin:0 auto 10px auto;
+    width:75%;
+}
+
