@@ -49,7 +49,7 @@ h1 {
     transform: rotate(25deg);
 }
 
-/* Features */
+/* Features Section*/
 #features{
     padding-top: 7.5%;
     text-align: center;
@@ -57,7 +57,7 @@ h1 {
 
 .center-icon{
     color: #ef8172;
-    padding-bottom: 5%;
+    margin-bottom: 5%;
 }
 
 .center-icon:hover{
@@ -67,7 +67,7 @@ h1 {
 .features-topic{
     font-family: 'Montserrat-Black', sans-serif;
     font-size: 1.5rem;
-    font-weight: bold;
+    font-weight: 900;
 }
 
 .features-details{
