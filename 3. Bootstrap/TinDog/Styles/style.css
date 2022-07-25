@@ -154,13 +154,13 @@ h3{
 /* Call to action section */
 #cta{
     background-color:#ff4c68;
-    padding: 5% auto 3remauto;
+    padding: 5% auto 3rem auto;
     text-align: center;
 }
 
 .cta-description{
     font-family: 'Montserrat-Black', sans-serif;
-    font-size: 3rem;
+    font-size: 3.5rem;
     font-weight: 900;
     line-height: 1.5;
     color: #fff;
