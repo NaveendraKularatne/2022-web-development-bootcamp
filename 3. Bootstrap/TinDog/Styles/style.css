@@ -150,3 +150,34 @@ h3{
         transform: rotate(0);
     }
 }
+
+/* Call to action section */
+#cta{
+    background-color:#ff4c68;
+    padding: 5% auto 3remauto;
+    text-align: center;
+}
+
+.cta-description{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: #fff;
+    text-align: center;
+}
+
+/* Footer section */
+#footer{
+    background-color: #fff;
+    margin: 5% 0 6% 0;
+    text-align: center;
+}
+
+.footer-copyright{
+    color: #959696;
+}
+
+.social-icons{
+    padding: 0.7rem;
+}
